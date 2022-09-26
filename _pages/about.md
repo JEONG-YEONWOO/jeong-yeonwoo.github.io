@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Seoul National University College of Medicine</a>. Gangnam-gu, Seoul, South Korea. willijung1@snu.ac.kr.
 
 profile:
   align: right
