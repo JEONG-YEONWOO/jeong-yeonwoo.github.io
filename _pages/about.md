@@ -7,20 +7,28 @@ subtitle: <a href='#'>Seoul National University College of Medicine</a>. Gangnam
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address:
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Yeonwoo JEONG from South Korea. You can call me "William".
+Hello, I am Yeonwoo JEONG from South Korea. You can call me "William".
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I major in Medicine at Seoul National University, along with a minor in Psychology. I am also taking part in an internship program for PreMed students at the Laboratory of Neurological Disease in Seoul National University College of Medicine.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current academic interests are as follows:
+<p>1) The induction and progression of neurodegenerative pathology, especially Alzheimer's and Parkinson's disease, including the causal mechanisms within.</p>
+<p>2) The role of glia and their delicate interactions with neurons in such proteinopathy.</p>
+<p>3) Viewing neurodegeneration from a developmental perspective, particularly in terms of early-life stress (ELS).</p>
+<p>4) Ultimately, the implications of the aforementioned on analogous psychiatric disorders such as anxiety & depression.</p>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+(You can find out the research I contributed to in my [publications page](/al-folio/publications/). - to be modified later on)
+
+Apart from academics, I have always had a big passion for music and the performing arts. Orchestral concerts and musicals are my favorites, and lately I developed a new interest in opera.
+You can visit my [Facebook](https://www.facebook.com/ywj.cosmos/) for further details. Feel free to explore!
+
+(the following are to be modified later on)
+[Font Awesome icons](http://fortawesome.github.io/Font-Awesome/)
+[Academicons](https://jpswalsh.github.io/academicons/)
