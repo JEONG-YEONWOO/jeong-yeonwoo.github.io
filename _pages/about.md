@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello, I am Yeonwoo Jeong from South Korea. You can call me "William".
 
-I major in Medicine (MD) at Seoul National University, along with a double major in Psychology.
+I am a second-year medical student at Seoul National University, along with a double major in Psychology.
 
 My current academic interests are as follows:
 <p>1) The induction and progression of neurodegenerative pathology, especially Alzheimer's and Parkinson's disease, including the causal mechanisms within.</p>
